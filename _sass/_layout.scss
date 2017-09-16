@@ -18,6 +18,7 @@
 .site-footer {
     border-top: 1px solid $grey-color-light;
     padding: $spacing-unit 0;
+    text-align: center;
 }
 
 .footer-heading {
@@ -171,7 +172,7 @@
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
     border: 1px solid $background-color;
-    
+
     &:hover {
         border: 1px solid $grey-color-light;
     }
